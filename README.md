@@ -31,3 +31,7 @@ notes/ -> the actual notes.
 # online talk
 
 we've recorded the talk, you can check it out clicking on this [link](https://www.youtube.com/watch?v=Ung512Qg_tY)
+
+# contact
+
+if you wanna contact me, you can send me an email by pressing this [button](mailto:samuel@securejump.cl) (samuel@securejump.cl)
