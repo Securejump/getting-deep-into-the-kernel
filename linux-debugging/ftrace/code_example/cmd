@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sudo trace-cmd record \
+        -p function_graph \
+        -g __x64_sys_write \
+        -n rw_verify_area \
+        -F ./main 
