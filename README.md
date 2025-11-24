@@ -27,3 +27,7 @@ linux-debugging/ftrace/code_example/ -> simple C hello world. use it with trace-
 linux-debugging/ftrace/ping/ -> contains a script I used for exploring the ping command and how ping works.
 notes/ -> the actual notes.
 ```
+
+# online talk
+
+we've recorded the talk, you can check it out clicking on this [link](https://www.youtube.com/watch?v=Ung512Qg_tY)
