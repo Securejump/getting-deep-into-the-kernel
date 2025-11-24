@@ -15,7 +15,7 @@ welcome to the notes and slides of the "Bajando el nivel: metiendo manos en el k
 # structure
 
 ```
-GettingDeepLinuxKernel.pdf -> slide.
+GettingDeepLinuxKernel.pdf -> slides.
 linux-debugging/ -> miscelaneous things. check the qq.sh and qemu.sh scripts. might be useful.
 notes/ -> the actual notes.
 ```
