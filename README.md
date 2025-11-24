@@ -6,7 +6,7 @@ welcome to the notes and slides of the "Bajando el nivel: metiendo manos en el k
 - downloading and installing the following packages:
     - gdb
     - make
-    - c
+    - gcc
     - cmake
     - glibc static libraries
 - read the talk and be ready.
